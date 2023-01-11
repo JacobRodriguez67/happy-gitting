@@ -1,5 +1,5 @@
 # Happy gitting everyone!
-
+happy gitting? NO! Happy gitting!
 * fork this repo (use the GH fork button)
 * clone the result to your computer  
   `git clone <url>`
